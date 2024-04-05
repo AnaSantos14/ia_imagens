@@ -7,4 +7,4 @@ Nesse teste escolhi vários tipos de imagens:
   *Textos embaçados;
   *Entre outros.
 
-Os resultados obtidos foram:
+Os resultados obtidos foram que nem todas as imagens ele consegue ler. Claro que foram imagens embaçadas e a receita médica.
